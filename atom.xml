@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://aipacino.github.com</id>
+    <id>https://aipacino.github.io</id>
     <title>石头城堡</title>
-    <updated>2021-03-02T00:42:38.843Z</updated>
+    <updated>2021-03-02T00:45:22.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://aipacino.github.com"/>
-    <link rel="self" href="https://aipacino.github.com/atom.xml"/>
+    <link rel="alternate" href="https://aipacino.github.io"/>
+    <link rel="self" href="https://aipacino.github.io/atom.xml"/>
     <subtitle>思考，记录，成长</subtitle>
-    <logo>https://aipacino.github.com/images/avatar.png</logo>
-    <icon>https://aipacino.github.com/favicon.ico</icon>
+    <logo>https://aipacino.github.io/images/avatar.png</logo>
+    <icon>https://aipacino.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 石头城堡</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://aipacino.github.com/post/hello-gridea/</id>
-        <link href="https://aipacino.github.com/post/hello-gridea/">
+        <id>https://aipacino.github.io/post/hello-gridea/</id>
+        <link href="https://aipacino.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
